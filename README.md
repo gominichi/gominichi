@@ -1,8 +1,6 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm Seo Young (๑ᵔ⩊ᵔ๑)
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+#### A student majoring in Computer Engineering at Yeungnam University
 
 
 🛠️ Stacks
