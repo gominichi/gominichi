@@ -1,4 +1,4 @@
-### Hi Welcome, i'm Seo Young (๑ᵔ⩊ᵔ๑)
+### Welcome to my world—, i'm Seo Young (๑ᵔ⩊ᵔ๑)
 
 #### A student majoring in Computer Engineering at Yeungnam University
 
