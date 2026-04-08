@@ -14,14 +14,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 
 
-𖦹 Contact To Me
+𖦹 Aboout Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gominichi@gmail.com)](gominichi@gmail.com)
 
 
-𖦹 Algorithm Gold Level. 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*   no
-
+𖦹
