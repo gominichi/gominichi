@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 
 
-𖦹 About Me
+𖦹 Contact To Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gominichi@gmail.com)](gominichi@gmail.com)
 
