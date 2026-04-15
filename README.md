@@ -16,7 +16,7 @@
 
 𖦹 Aboout Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gominichi@gmail.com)](gominichi@gmail.com)<br /><br />
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanashinobiko@gmail.com)](nanashinobiko@gmail.com)<br /><br />
 
 
 𖦹 Dreaming of a future where we encode ***the soul into the steel***<br />
